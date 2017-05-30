@@ -1,0 +1,13 @@
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.CheckInWindow.resources
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.Kitchen.resources
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.LogIn.resources
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\Steven\documents\visual studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.FrontDeskSwitcher.resources
+C:\Users\Steven\Documents\Visual Studio 2013\Projects\Hotel\Hotel\obj\Debug\Hotel.CheckOut.resources
